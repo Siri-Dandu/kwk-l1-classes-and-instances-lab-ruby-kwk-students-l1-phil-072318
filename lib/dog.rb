@@ -1,9 +1,7 @@
 # dog.rb
 class Dog #start of my new object
-	def initialize(name, age, breed) #this is called whenever you create a new instance of a dog
+	def initialize(name)
 		@name = name
-		@age = age
-		@breed = breed
 	end
 	
 	def name
