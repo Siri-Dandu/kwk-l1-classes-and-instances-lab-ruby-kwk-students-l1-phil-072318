@@ -1,10 +1,5 @@
 # dog.rb
 class Dog #start of my new object
-	def initialize(name)
-		@fido = fido
-		@snoopy = snoopy
-		@lassie = lassie
-	end
 	
 	def fido
 		return @fido
