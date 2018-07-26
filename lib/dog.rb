@@ -1,3 +1,5 @@
 # dog.rb
 class Dog
-  def initialize()
+  def initialize("fido", "snoopy", "lassie")
+end
+end
