@@ -1,12 +1,23 @@
 # dog.rb
 class Dog #start of my new object
 	def initialize(name)
-		@name = name
+		@fido = fido
+		@snoopy = snoopy
+		@lassie = lassie
 	end
 	
-	def name
-		return @name
+	def fido
+		return @fido
 	end
+	
+	def snoopy
+	  return @snoopy
+	end 
+	
+	def lassie
+	  return @lassie
+	end 
+	
 	end 
 	
 dog1 = Dog.new("fido")
