@@ -5,7 +5,8 @@ def initialize dog("fido", "snoopy", "lassie")
   @fido = fido
     @snoopy = snoopy
     @lassie = lassie
-    
+  end 
+  
 	def fido
 		return @fido
 	end
