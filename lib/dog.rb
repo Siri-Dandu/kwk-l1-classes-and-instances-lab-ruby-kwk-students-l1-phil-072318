@@ -7,6 +7,7 @@ class Dog #start of my new object
 	def name
 		return @name
 	end
+	end 
 	
 dog1 = Dog.new("fido")
 dog2 = Dog.new("snoopy")
