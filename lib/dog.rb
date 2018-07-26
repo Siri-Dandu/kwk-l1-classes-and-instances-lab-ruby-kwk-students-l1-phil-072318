@@ -24,8 +24,6 @@ class Dog #start of my new object
     @age = new_age
   end
 
-  end 
-
 
 end
 
